@@ -6,6 +6,7 @@ return {
     name = "catppuccin",
     opts = {
       flavour = "macchiato",
+      transparent_background = true,
       integrations = {
         aerial = true,
         alpha = true,
