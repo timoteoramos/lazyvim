@@ -1,6 +1,6 @@
 return {
   "mfussenegger/nvim-dap-python",
   config = function()
-    require("dap-python").setup("~/.virtualenvs/debugpy/bin/python")
+    require("dap-python").setup("~/.local/share/pipx/venvs/debugpy/bin/python")
   end,
 }
