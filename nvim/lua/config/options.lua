@@ -3,4 +3,4 @@
 -- Add any additional options here
 
 vim.g.autoformat = false
-vim.g.lazyvim_picker = "snacks"
+vim.g.lazyvim_picker = "fzf"
